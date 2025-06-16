@@ -1,3 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
 
+
+/* Adjust Logo size */
+#header .logo .symbol img {
+  width: 90px;   /* pick any width */
+  height: auto;  /* keeps aspect ratio */
+}
