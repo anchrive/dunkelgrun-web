@@ -7,3 +7,12 @@
   width: 90px;   /* pick any width */
   height: auto;  /* keeps aspect ratio */
 }
+
+
+/* Add a dark text color option for bright tiles on front page */
+.text-dark,
+.text-dark h2,
+.text-dark .content {
+  color: #585858 !important;  /* same as body text would be #585858 */
+	background: #ffffff;  /* white */
+}
